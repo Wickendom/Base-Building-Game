@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81ddd0203e94fef4c8c458ecaa74486a, type: 3}
+  m_Name: Refinary
+  m_EditorClassIdentifier: 
+  buildingUnlock: {fileID: 11400000, guid: 1733fa151b22d5a4dab710d2d5cf4138, type: 2}
+  levelToUnlock: 4
+  unlocked: 0
+  requiredNodesToUnlock: []
+  otherNodesNeededToUnlock: []

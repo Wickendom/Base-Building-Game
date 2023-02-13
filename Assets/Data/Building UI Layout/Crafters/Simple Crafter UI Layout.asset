@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a115298895e874e4cb59260ab84dcf7e, type: 3}
+  m_Name: Simple Crafter UI Layout
+  m_EditorClassIdentifier: 
+  inventoryCell: {fileID: 0}
+  bgSprite: {fileID: 0}
+  bgWidth: 20
+  bgHeight: 20
+  cellPadding: 10
+  cellAmount: 3
+  amountOfInputSlots: 1
+  amountOfOutputSlots: 1
+  inputCell: {fileID: 0}
+  inputCellPos: {x: -150, y: 75, z: 0}
+  outputCell: {fileID: 0}
+  outputCellPos: {x: 150, y: 0, z: 0}
+  fuelCell: {fileID: 0}
+  fuelCellPos: {x: -150, y: -75, z: 0}

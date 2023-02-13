@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34adc0b83f29c25438cda3a5b8e432c4, type: 3}
+  m_Name: Lumber Axe
+  m_EditorClassIdentifier: 
+  ID: 8
+  itemName: New Item
+  itemIcon: {fileID: 0}
+  isUnique: 0
+  isQuestItem: 0
+  isStackable: 0
+  isTool: 1
+  isCraftable: 1
+  itemsRequiredToCraft:
+  - {fileID: 11400000, guid: 9eb0f649786affd45b6c75c2f83ccd05, type: 2}
+  - {fileID: 11400000, guid: 8db53cc5d6c65c7419f375734e7f7d5b, type: 2}
+  resourceAmount: 0500000003000000
+  destroyOnUse: 0
+  timeToRefine: 0
+  refinedItemOutput: {fileID: 0}
